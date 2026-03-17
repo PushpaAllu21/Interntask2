@@ -1,0 +1,1 @@
+the file contains the python function that will give you grades based on the input marks and handles exceptions and errors. basically is is a Grade calculator. The screenshot shows the text cases and the outputs.
